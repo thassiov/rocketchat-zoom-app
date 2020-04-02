@@ -1,0 +1,15 @@
+{
+    "id": "82313c36-13cd-4544-9a57-b620c50c5431",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "thassio",
+        "homepage": "rocket.chat",
+        "support": "rocket.chat"
+    },
+    "name": "rocketchat-zoom-app",
+    "nameSlug": "rocketchat-zoom-app",
+    "classFile": "RocketchatZoomAppApp.ts",
+    "description": "Zoom Integration"
+}
